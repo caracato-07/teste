@@ -89,3 +89,12 @@ footer {
     margin-right: 30px;
     justify-content: end;
 }
+
+@media (max-width: 800px) {
+    .page-two {
+        display: block;
+    }
+    .polaroid {
+        display: block;
+    }
+}
